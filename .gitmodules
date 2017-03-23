@@ -1,0 +1,3 @@
+[submodule "PodcastUtilities"]
+	path = PodcastUtilities
+	url = https://github.com/derekwilson/PodcastUtilities.git
