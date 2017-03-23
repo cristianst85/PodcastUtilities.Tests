@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastUtilitiesTests", "PodcastUtilitiesTests.csproj", "{DCE3878C-72E1-4FF8-92E1-36EA0708D767}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastUtilities.Tests", "PodcastUtilities.Tests.csproj", "{DCE3878C-72E1-4FF8-92E1-36EA0708D767}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
