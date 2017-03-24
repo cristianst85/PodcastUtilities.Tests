@@ -1,3 +1,4 @@
 PodcastUtilities.Tests/bin/
 PodcastUtilities.Tests/obj/
 *.suo
+PodcastUtilities.Tests/packages/
